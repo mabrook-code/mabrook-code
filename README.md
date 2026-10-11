@@ -9,6 +9,18 @@ GIScience · Machine Learning · Climate Change · Natural Hazards · Hydrology 
 ###  Contact
 ✉️ mkmabrook7@gmail.com · 🌐 [Portfolio](https://sites.google.com/view/mabrook360) · 🔗 [LinkedIn](https://www.linkedin.com/in/mabrook360/?isSelfProfile=true)
 
-| [Groundwater Dynamics – Bangladesh](https://github.com/mabrook-code/bangladesh-groundwater-gldas) | Seasonal groundwater storage dynamics across divisions using GLDAS-2.2 (2024) | GEE, ArcGIS Pro |
-| [Urban Heat Island – Khulna](https://github.com/mabrook-code/khulna-urban-heat-island) | LST, UHI, and UTFVI mapping of Khulna City using Landsat 8 (2024) | GEE, ArcGIS Pro |
-| [LST Prediction – Random Forest](https://github.com/mabrook-code/bangladesh-lst-random-forest) | Random Forest model predicting land surface temperature across Bangladesh from climate, terrain, and land data | GEE, Random Forest |
+### 🗂️ Featured Projects
+
+**Hydrology & Climate**
+
+| Project | What it does | Tools |
+|---|---|---|
+| [Groundwater Dynamics – Bangladesh](https://github.com/mabrook-code/bangladesh-groundwater-gldas) | Seasonal groundwater storage across divisions from GLDAS-2.2 (2024) | GEE · ArcGIS Pro |
+
+** Urban Heat & Machine Learning**
+
+| Project | What it does | Tools |
+|---|---|---|
+| [Urban Heat Island – Khulna](https://github.com/mabrook-code/khulna-urban-heat-island) | LST, UHI, and UTFVI mapping of Khulna City from Landsat 8 (2024) | GEE · ArcGIS Pro |
+| [LST Prediction – Bangladesh](https://github.com/mabrook-code/bangladesh-lst-random-forest) | Random Forest prediction of land surface temperature (R² = 0.77) | GEE · Random Forest |
+
