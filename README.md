@@ -9,7 +9,7 @@ GIScience · Machine Learning · Climate Change · Natural Hazards · Hydrology 
 ###  Contact
 ✉️ mkmabrook7@gmail.com · 🌐 [Portfolio](https://sites.google.com/view/mabrook360) · 🔗 [LinkedIn](https://www.linkedin.com/in/mabrook360/?isSelfProfile=true)
 
-### 🗂️ Featured Projects
+### Featured Projects
 
 **Hydrology & Climate**
 
@@ -17,7 +17,7 @@ GIScience · Machine Learning · Climate Change · Natural Hazards · Hydrology 
 |---|---|---|
 | [Groundwater Dynamics – Bangladesh](https://github.com/mabrook-code/bangladesh-groundwater-gldas) | Seasonal groundwater storage across divisions from GLDAS-2.2 (2024) | GEE · ArcGIS Pro |
 
-** Urban Heat & Machine Learning**
+**Urban Heat & Machine Learning**
 
 | Project | What it does | Tools |
 |---|---|---|
